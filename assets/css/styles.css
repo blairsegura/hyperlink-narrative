@@ -1,5 +1,6 @@
-/* styles.css */
+/* styles.css 
 
-* {
-	font-family: Arial;
+body {
+  font-family: "Pixelify Sans", sans-serif;
+  text-align: center;
 }
